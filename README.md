@@ -1,6 +1,6 @@
 # WorldWizardsProject
 
-![Alt Text](images/WWimage.png)
+![screenshot](images/WWimage.png)
 
 WorldWizards open source world builder
 
