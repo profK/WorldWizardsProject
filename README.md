@@ -1,6 +1,6 @@
 # WorldWizardsProject
 
-![screenshot](https://github.com/profK/WorldWizardsProject/tree/master/images/WWImage.png)
+![Alt text](/images/WWImage.png?raw=true "Optional Title")
 
 WorldWizards open source world builder
 
