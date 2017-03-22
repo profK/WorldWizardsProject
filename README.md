@@ -1,6 +1,7 @@
 # WorldWizardsProject
 
-![Alt text](/images/WWImage.png?raw=true "Optional Title")
+:---------------------------------------------------------:|:--------------------------------------------------------------:
+![](/images/WWImage.png?raw=true "Optional Title")         | ![](/images/UnityLogo.png?raw=true "Optional Title") 
 
 *A WPI MQP Project: Licensed under GPL3 (other licenses may be available on request)
 For more information contact Professor Kesselman jpkesselman@wpi.edu*
@@ -12,7 +13,7 @@ This project would be built in stages as a series of sub projects:
 1.	World Builder
 Goal is a functional true 3D tile based world assembly system built for VR environments.  Tiles would be organized in matching tile-sets that are run-time loaded and arranged on a 3D grid.  Level change tiles (stairs, pits, elevators, etc) would be implemented as filling multiple grid spaces.  Tiles would have enough connectivity information to allow for auto-assembly (just like most 2D grid systems), and carry their own collision and navigation information that can be stitched together at run-time.
 
-Objects will be place-able and movable on tiles at run-time.  Doors would be listed in separate ìdoor setsî and door anchor points baked into the tiles.  Door motion will be controllable through scripting hooks.
+Objects will be place-able and movable on tiles at run-time.  Doors would be listed in separate ‚Äúdoor sets‚Äù and door anchor points baked into the tiles.  Door motion will be controllable through scripting hooks.
 
 2.	Creature Interface
 Goal is to enable both humanoid and non-humanoid creatures to be placed in the environment.  These creatures will have a combination of a standard action interface (move to, pick up, mele attack, etc) and additional creature specific commands that they will advertise into the editing environment.
@@ -32,5 +33,5 @@ A remote server will be implemented capable of supporting large numbers of playe
 From here many individual projects open up using the platform as a base
 .
 Deployment and Future Work
-Just like Neverwinter Nights I see this becoming both a platform for teaching and research.  The codebase and assets will be openósourced to encourage third party development participation.
+Just like Neverwinter Nights I see this becoming both a platform for teaching and research.  The codebase and assets will be open‚Äîsourced to encourage third party development participation.
 Once the base system is completed there is an almost unlimited scope of experimental world simulation systems that could be built on top.   Some areas I see of potential future work include AI/artificial life experimentation, immersive user interface and control research, and experimental game rule systems.  
