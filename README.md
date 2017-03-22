@@ -1,7 +1,7 @@
 ﻿# WorldWizardsProject
 
 
-<img src="images/WWImage.png?raw=true" width="425"/> <img src="images/unitylogo.png?raw=true" width="425"/> 
+<img src="images/WWImage.png?raw=true" width="425"/>  <a href="https://www.unity3d.com"><img src="images/unitylogo.png?raw=true" width="425"/> </a>
         
 
 *A WPI MQP Project: Licensed under GPL3 (other licenses may be available on request)
