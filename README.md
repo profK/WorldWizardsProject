@@ -1,7 +1,7 @@
 ﻿# WorldWizardsProject
 
 
-![](/images/WWImage.png?raw=true "Optional Title”)  ![](/images/UnityLogo.png?raw=true "Optional Title")        
+![](/images/WWImage.png?raw=true "Optional Title”)  ![](/images/unitylogo.png?raw=true "Optional Title")        
 
 *A WPI MQP Project: Licensed under GPL3 (other licenses may be available on request)
 For more information contact Professor Kesselman jpkesselman@wpi.edu*
