@@ -1,12 +1,12 @@
-# WorldWizardsProject
+﻿# WorldWizardsProject
 
 
-![](/images/WWImage.png?raw=true "Optional Title")        
+![](/images/WWImage.png?raw=true "Optional Title”)  ![](/images/UnityLogo.png?raw=true "Optional Title")        
 
 *A WPI MQP Project: Licensed under GPL3 (other licenses may be available on request)
 For more information contact Professor Kesselman jpkesselman@wpi.edu*
 
-WorldWizards open source world builder
+Worldizards open source world builder
 
 The proposed project is to build a new world building kit that overcomes all of these limitations.  It will be built a modern 3D Game engine (Unity3D) both lowering the cost of creation as well as leveraging the ongoing development of the Unity3D team to keep its visual content up to date.   
 This project would be built in stages as a series of sub projects:
