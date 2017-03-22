@@ -1,7 +1,8 @@
 ﻿# WorldWizardsProject
 
 
-![](/images/WWImage.png?raw=true "Optional Title”)  ![](/images/unitylogo.png?raw=true "Optional Title")        
+<img src="/images/WWLogo.png" width="425"/> <img src="images/untiylogo.png" width="425"/> 
+        
 
 *A WPI MQP Project: Licensed under GPL3 (other licenses may be available on request)
 For more information contact Professor Kesselman jpkesselman@wpi.edu*
